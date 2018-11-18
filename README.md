@@ -1,2 +1,2 @@
-# basic-ml1
+# basic-ml
 Gradient Descent Implementation 
